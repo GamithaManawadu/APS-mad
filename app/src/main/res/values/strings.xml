@@ -25,4 +25,13 @@
     <string name="header2">Feedback</string>
     <string name="header3">Navigate Parking Lot</string>
     <string name="btnlogout">LogOut</string>
+    <string name="customer_points">Customer Points :</string>
+    <string name="edit_your_account">Edit Your Account</string>
+    <string name="make_your_own_parking">Make Your Own Parking</string>
+    <string name="parking_history">Parking History</string>
+    <string name="change_password">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="Update">Done</string>
+    <string name="cancel">Cancel</string>
+
 </resources>
